@@ -238,6 +238,9 @@
   /* Add padding to the left and right */
 }
 
+.centered-font{
+  text-align: center;
+}
 
 .centered-image {
   margin-left: auto;
